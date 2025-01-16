@@ -1,6 +1,6 @@
 # py-binder
 python jupyter binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Savan25/py-binder/HEAD)
+Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Savan25/py-binder/HEAD)
 
-[![Guide](https://mybinder.org/badge_logo.svg)]([https://mybinder.org/v2/gh/Savan25/py-binder/HEAD](https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html))
+Guide: [![Guide](https://mybinder.org/badge_logo.svg)]([https://mybinder.org/v2/gh/Savan25/py-binder/HEAD](https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html))
